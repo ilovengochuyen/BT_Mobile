@@ -46,3 +46,15 @@ week 2
 ![image](https://user-images.githubusercontent.com/61539998/156715439-889b52e7-6f17-4140-9916-a99ac46cfbe2.png)
   
 Week 3:
+
+bài 11:
+Học về ScopedModel trong Flutter :
+Flutter hỗ trợ ScopedModel trong việc quản lý trạng thái ứng dụng. 
+Package gồm 3 class chính: 
+  Model- đóng gói trạng thái của ứng dụng. 
+  ScopedModel widget chuyển đổi dữ liệu từ widget cha xuống widget con khi model cập nhật . 
+  ScopedModelDescendant widget giúp lấy dữ liệu từ lớp cha khi dât model thây đổi.
+  
+ bài 12: 
+ Học về Avigator và Routing Flutter :
+ Avigator và Routing Flutter cung cấp cho chúng ta lớp routing cơ bản là MaterialPageRoute cùng với hai phương thức Navigator.push() và Navigator.pop()
