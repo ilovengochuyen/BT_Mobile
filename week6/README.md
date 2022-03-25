@@ -1,3 +1,3 @@
 # comico
 
-các màn hìn landingpage
+các màn hình landingpage
